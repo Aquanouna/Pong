@@ -3,6 +3,13 @@ Pong is a classic, fast-paced, arcade game where two players control paddles and
 
 ---
 
+## 🎮 Gameplay
+
+<p align="center">
+  <img src="assets/gameplay.gif" alt="Gameplay Preview" width="90%">
+</p>
+
+
 ## 🎮 Features
 
 - Two-player local gameplay
@@ -13,7 +20,7 @@ Pong is a classic, fast-paced, arcade game where two players control paddles and
 
 ---
 
-## 🎮 Controls
+## 🕹️ Controls
 
 - **Enter** or **Return** → Start and Pause / Unpause 
 - **Esc** → Exit 
@@ -33,7 +40,7 @@ Pong is a classic, fast-paced, arcade game where two players control paddles and
 1. Install [LÖVE2D](https://love2d.org/)
 2. Clone this repository:
 	```bash
-	git clone https://github.com/your-username/pong.git pong
+	git clone https://github.com/Aquanouna/Pong.git pong
 	```
 3. Navigate to the folder:
 	```bash
@@ -43,13 +50,10 @@ Pong is a classic, fast-paced, arcade game where two players control paddles and
 	```bash
 	love .
 	```
-## 🎮 Gameplay
-
-![Gameplay](assets/gameplay.png)
 
 ## 👤 Author
 
-*Developed by Nour Dahouk*
+Developed by [Nour Dahouk](https://github.com/Aquanouna)
 
 ## 🛠️ Built With
 
